@@ -8,4 +8,19 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <EmbeddedResource Update="ApplicationStrings.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>ApplicationStrings.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ApplicationStrings.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>ApplicationStrings.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 </Project>
