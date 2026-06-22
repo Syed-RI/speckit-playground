@@ -14,4 +14,13 @@
     <data name="Hello" xml:space="preserve">
         <value>Hola</value>
     </data>
+    <data name="HowAreYou" xml:space="preserve">
+        <value>¿Cómo estás?</value>
+    </data>
+    <data name="Profile_WhereAreYouFrom" xml:space="preserve">
+        <value>¿De dónde eres?</value>
+    </data>
+    <data name="Common_ImFineThankYou" xml:space="preserve">
+        <value>Estoy bien, gracias</value>
+    </data>
 </root>

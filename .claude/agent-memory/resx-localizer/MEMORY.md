@@ -1,0 +1,1 @@
+- [Project Locale Structure](project_locale_structure.md) — Supported locales, file paths, and key conventions for ApplicationStrings resx files

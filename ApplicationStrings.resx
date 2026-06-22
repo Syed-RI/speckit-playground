@@ -21,4 +21,13 @@
     <data name="Hello" xml:space="preserve">
         <value>Hello</value>
     </data>
+    <data name="HowAreYou" xml:space="preserve">
+        <value>How are you?</value>
+    </data>
+    <data name="Profile_WhereAreYouFrom" xml:space="preserve">
+        <value>Where are you from?</value>
+    </data>
+    <data name="Common_ImFineThankYou" xml:space="preserve">
+        <value>I'm fine thank you</value>
+    </data>
 </root>
